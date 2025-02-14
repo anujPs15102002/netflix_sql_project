@@ -11,7 +11,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 # DataSet
 The data for this project is sourced from the Kaggle dataset:
-- DataSet Link:(https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- DataSet Link:[MoviesDataSet](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 # Schema
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
